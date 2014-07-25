@@ -1,6 +1,6 @@
 body
 {
-	background-color:#FFC65D;
+	background-image: url(http://www.uniagustiniana.edu.co/images/mentes-investigativas/edicion-No1/Tecnolog-Ingenieria.jpg);
 	font-family: "Comic Sans";
 }
 #contenido
@@ -18,25 +18,25 @@ nav ul li
 {
 	display: inline-block;
 	margin-right: 20px;
-	color:#5B9CA2;
+	color:#422833;
 	cursor: pointer;
 }
 #textoPr
 {
-	width: 600px;
-	height: 300px;
+	width: 1000px;
+	height:1000px;
 	background-color:#B52735;
 	color:#7BC8A4;
 	margin:0 auto;
 	text-align:center;
-	border-radius: 20px;
-	padding: 20px;
+	border-radius: 10px;
+	padding: 10px;
 	box-shadow: 0px 0px 20px rgba(0,0,0,0.5);
 	
 }
 a 
 {
-	color:#B52735;
+	color:#7BC8A4;
 	font-weight: bold;
 
 
