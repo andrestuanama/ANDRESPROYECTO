@@ -1,6 +1,10 @@
 body
 {
 	background-image: url(http://www.fondos7.net/wallpaper-original/wallpapers/bosque-de-bambu-1129.jpg);
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
 	font-family: "Cursive";
 	max-width: 100%
 
