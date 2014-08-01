@@ -1,4 +1,4 @@
-body
+body    
 {
 	background-image: url(http://www.fondos7.net/wallpaper-original/wallpapers/bosque-de-bambu-1129.jpg);
 	font-family: "Cursive";
@@ -8,7 +8,7 @@ body
   	background-size: cover;
 	max-width: 100%
 
-
+	
 }
 #contenido
 {
@@ -39,7 +39,7 @@ nav ul li
 #textoPr
 {
 	width: 400px;
-	height:1300px;
+	height:500px;
 	background-color:#32acc2;  
 	color:#fff;      
 	margin:0 auto;
@@ -64,8 +64,5 @@ ul li
 
 }
 
-header hgroup nav ul li a
-{
-	color:#FF0000;
 
 }

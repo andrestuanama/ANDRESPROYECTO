@@ -8,7 +8,7 @@ body
   	background-size: cover;
 	max-width: 100%
 
-
+	
 }
 #contenido
 {
@@ -33,13 +33,13 @@ nav ul li
 {
 	display: inline-block;
 	margin-right: 20px;
-	color:#FF0000;
+	color:#422833;
 	cursor: pointer;
 }
 #textoPr
 {
-	width: 400px;
-	height:1300px;
+	width: 700px;
+	height:2000px;
 	background-color:#32acc2;  
 	color:#fff;      
 	margin:0 auto;
@@ -64,8 +64,5 @@ ul li
 
 }
 
-header hgroup nav ul li a
-{
-	color:#FF0000;
 
 }
