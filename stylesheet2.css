@@ -1,6 +1,6 @@
 body
 {
-	background-image: url();     <!--para poner imagen-->
+	background-image: url(https://lh6.googleusercontent.com/-pOJ_0mI7ubQ/VdZ-58ADn_I/AAAAAAAAAFY/KJAN1pKm3XU/w213-h169-no/fondo.png);     <!--para poner imagen-->
 	font-family: "Cursive";
 	-webkit-background-size: cover;
   	-moz-background-size: cover;
@@ -45,15 +45,15 @@ nav ul li
 
 	nav ul li:hover
 {
-	background-color: #1d1d1d;
+	background-color: #3333FF;
 	color: #e44e2d;
 	border-radius: 5px;
 }
 #textoPr
 {
 	width: 400px;
-	height:150px;
-	background-color:#32acc2;  
+	height:200px;
+	background-color:#FFCC00;  
 	color:#fff;      
 	margin:0 auto;
 	text-align:center;
