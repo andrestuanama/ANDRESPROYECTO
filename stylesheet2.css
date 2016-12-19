@@ -1,6 +1,5 @@
 body
 {
-	background-image: url(https://lh6.googleusercontent.com/-pOJ_0mI7ubQ/VdZ-58ADn_I/AAAAAAAAAFY/KJAN1pKm3XU/w213-h169-no/fondo.png);     <!--para poner imagen-->
 	font-family: "Cursive";
 	-webkit-background-size: cover;
   	-moz-background-size: cover;
@@ -12,20 +11,18 @@ body
 }
 #contenido
 {
-	width: 960px;
+	width: 1200px;
 	margin: 0 auto;
-	text-align: center;
+	text-align: left;
 }
 h1
 {
 	color:#000000;
-	text-shadow:2px 2px #FFC65D;
-
+	
 }
 h2
 {
 	color:#F16745;
-
 
 
 }
@@ -33,7 +30,7 @@ nav ul li
 {
 	display: inline-block;
 	margin-right: 20px;
-	color:#FF0000;
+	color:#000000;
 	cursor: pointer;
 	padding: 2px;
 
@@ -51,18 +48,13 @@ nav ul li
 }
 #textoPr
 {
-	width: 400px;
-	height:200px;
-	background-color:#FFCC00;  
-	color:#fff;      
-	margin:0 auto;
-	text-align:center;
-	border-radius: 10px;
+
+  
+
 	padding: 10px;
-	text-transform: lowercase;
+
 	box-shadow: 0px 0px 20px rgba(0,0,0,0.5);
-	display: inline-block;
-	
+
 }
 a 
 {
@@ -72,7 +64,7 @@ a
 ul li
 {
 	text-align: left;
-	color: #404040;
+	color: #16cccc;
 	margin-right: 20px;
 
 }
